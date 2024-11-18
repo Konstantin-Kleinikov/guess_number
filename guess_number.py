@@ -32,3 +32,4 @@ main()
 
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
+print('Test Git handling of changes')
