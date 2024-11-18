@@ -32,4 +32,5 @@ main()
 
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
+# Message was added during Git training
 print('Test the handling of changes in Git. Provided by Yandex training team.')
