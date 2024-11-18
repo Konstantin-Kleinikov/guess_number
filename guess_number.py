@@ -32,4 +32,4 @@ main()
 
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
-print('Test Git handling of changes')
+print('Test the handling of changes in Git. Provided by Yandex training team.')
